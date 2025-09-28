@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Automation outputs
+keep.log
+generated_snippets/
